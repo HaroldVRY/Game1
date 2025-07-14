@@ -1,0 +1,24 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.Python/
+
+# Entornos virtuales (si usas venv, pipenv, conda, etc.)
+env/
+venv/
+*.venv
+.env
+
+# Archivos específicos de IDEs (opcional, pero buena práctica)
+.vscode/   # Para Visual Studio Code
+.idea/     # Para PyCharm
+*.sublime-project
+*.sublime-workspace
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.swp
